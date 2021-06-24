@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Batman Begins",
+      "rating": 8.9,
+      "overview": "Summaries. After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption. ... As a child, a young Bruce Wayne witnesses the death of his parents at the hands of a crazed criminal.",
+      "imageURL": "https://i.pinimg.com/originals/1e/20/39/1e2039358a821a1cb589222966426ee7.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Amy",
+      "rating": 7.9,
+      "overview": "A documentary on the life of Amy Winehouse, the immensely talented yet doomed songstress. We see her from her teen years, where she already showed her singing abilities, to her finding success and then her downward spiral into alcoholism and drugs.",
+      "imageURL": "https://tr.web.img4.acsta.net/pictures/15/10/05/15/56/061197.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Rocky",
+      "rating": 8.9,
+      "overview": "A small-time boxer gets a supremely rare chance to fight a heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+      "imageURL": "https://www.fullhdfilmmodu.com/wp-content/uploads/rocky-1-turkce-dublaj-izle.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Rogue",
+      "rating": 7.4,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/uOw5JD8IlD546feZ6oxbIjvN66P.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Project Power",
+      "rating": 6.7,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/TnOeov4w0sTtV2gqICqIxVi74V.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Superman",
+      "rating": 7.6,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/6Bbq8qQWpoApLZYWFFAuZ1r2gFw.jpg"
+    }
+  ]
+}
